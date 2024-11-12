@@ -1,0 +1,177 @@
+
+/* Class = "UILabel"; text = "TigerLoadMoment"; ObjectID = "0ea-NS-ZEI"; */
+"0ea-NS-ZEI.text" = "TigerLoadMoment";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "1Tz-g9-IAs"; */
+"1Tz-g9-IAs.normalTitle" = "START";
+
+/* Class = "UITextField"; placeholder = "Cross Sectional Area (sq.inch)"; ObjectID = "1qd-Mt-giA"; */
+"1qd-Mt-giA.placeholder" = "Cross Sectional Area (sq.inch)";
+
+/* Class = "UILabel"; text = "Moment of Inertia "; ObjectID = "24h-MB-csq"; */
+"24h-MB-csq.text" = "Moment of Inertia ";
+
+/* Class = "UITextField"; placeholder = "Load (newton)"; ObjectID = "4VC-rL-tGl"; */
+"4VC-rL-tGl.placeholder" = "Load (newton)";
+
+/* Class = "UITextField"; placeholder = "Moment Of Inertia (Inch)"; ObjectID = "4bF-sp-W65"; */
+"4bF-sp-W65.placeholder" = "Moment Of Inertia (Inch)";
+
+/* Class = "UITextField"; placeholder = "Enter Value here"; ObjectID = "611-Cb-nbv"; */
+"611-Cb-nbv.placeholder" = "Enter Value here";
+
+/* Class = "UILabel"; text = "σ = Stress at a specific point in the cross-section\nP = Applied load (force)\nA = Cross-sectional area of the object\ne = Eccentricity (distance from the centroid)\ny = Distance from the neutral axis to the point where stress is being calculated\nI = Moment of inertia of the cross-section"; ObjectID = "76b-nx-YAM"; */
+"76b-nx-YAM.text" = "σ = Stress at a specific point in the cross-section\nP = Applied load (force)\nA = Cross-sectional area of the object\ne = Eccentricity (distance from the centroid)\ny = Distance from the neutral axis to the point where stress is being calculated\nI = Moment of inertia of the cross-section";
+
+/* Class = "UITextField"; placeholder = "Distance from neutral axis to outermost fiber at the section where maximum  moment  occurs (inch)"; ObjectID = "8Qp-w4-ng5"; */
+"8Qp-w4-ng5.placeholder" = "Distance from neutral axis to outermost fiber at the section where maximum  moment  occurs (inch)";
+
+/* Class = "UIButton"; normalTitle = "Rate App"; ObjectID = "8iN-2E-97r"; */
+"8iN-2E-97r.normalTitle" = "Rate App";
+
+/* Class = "UITextField"; placeholder = "Moment of Inertia (meters)"; ObjectID = "Bie-E2-LGp"; */
+"Bie-E2-LGp.placeholder" = "Moment of Inertia (meters)";
+
+/* Class = "UITextField"; placeholder = "Cross-sectional Area (square meters)"; ObjectID = "DB3-xe-Ujm"; */
+"DB3-xe-Ujm.placeholder" = "Cross-sectional Area (square meters)";
+
+/* Class = "UIButton"; normalTitle = "Formula"; ObjectID = "EHN-YS-jBF"; */
+"EHN-YS-jBF.normalTitle" = "Formula";
+
+/* Class = "UITextField"; placeholder = "Critical Buckling Load (lb)"; ObjectID = "GE3-56-4fv"; */
+"GE3-56-4fv.placeholder" = "Critical Buckling Load (lb)";
+
+/* Class = "UITextField"; placeholder = "Enter Value here"; ObjectID = "HwA-Fe-V0A"; */
+"HwA-Fe-V0A.placeholder" = "Enter Value here";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "IGN-Wp-kIE"; */
+"IGN-Wp-kIE.normalTitle" = "Clear";
+
+/* Class = "UILabel"; text = "b = Base width of the stiffener\nh = Height of the stiffener"; ObjectID = "KTk-u1-gCc"; */
+"KTk-u1-gCc.text" = "b = Base width of the stiffener\nh = Height of the stiffener";
+
+/* Class = "UILabel"; text = "Deflection"; ObjectID = "LMG-ss-9m0"; */
+"LMG-ss-9m0.text" = "Deflection";
+
+/* Class = "UILabel"; text = "Total unit stress"; ObjectID = "LUj-eh-Isa"; */
+"LUj-eh-Isa.text" = "Total unit stress";
+
+/* Class = "UIButton"; normalTitle = "Formula"; ObjectID = "MQG-lv-JN9"; */
+"MQG-lv-JN9.normalTitle" = "Formula";
+
+/* Class = "UILabel"; text = "P = Applied load (force)\nA = Cross-sectional area of the object\nM = Moment caused by the eccentric load\nS = Section modulus of the cross-section"; ObjectID = "N0K-RJ-2Ba"; */
+"N0K-RJ-2Ba.text" = "P = Applied load (force)\nA = Cross-sectional area of the object\nM = Moment caused by the eccentric load\nS = Section modulus of the cross-section";
+
+/* Class = "UILabel"; text = "Deflection"; ObjectID = "NV4-A5-Ohn"; */
+"NV4-A5-Ohn.text" = "Deflection";
+
+/* Class = "UILabel"; text = "Total unit stress"; ObjectID = "NoO-ba-vdg"; */
+"NoO-ba-vdg.text" = "Total unit stress";
+
+/* Class = "UILabel"; text = "Moment of Inertia (Transverse Stiffeners)"; ObjectID = "QJm-KM-mHQ"; */
+"QJm-KM-mHQ.text" = "Moment of Inertia (Transverse Stiffeners)";
+
+/* Class = "UITextField"; placeholder = "Distance of the load from the centroidal axis (inch)"; ObjectID = "QzO-4p-zV8"; */
+"QzO-4p-zV8.placeholder" = "Distance of the load from the centroidal axis (inch)";
+
+/* Class = "UIButton"; normalTitle = "Formula"; ObjectID = "R8j-pO-hcY"; */
+"R8j-pO-hcY.normalTitle" = "Formula";
+
+/* Class = "UILabel"; text = "Total unit stress (Eccentric loading)"; ObjectID = "S47-Tf-FRi"; */
+"S47-Tf-FRi.text" = "Total unit stress (Eccentric loading)";
+
+/* Class = "UITextField"; placeholder = "Cross Sectional Area (sq.inch)"; ObjectID = "SWx-jB-bry"; */
+"SWx-jB-bry.placeholder" = "Cross Sectional Area (sq.inch)";
+
+/* Class = "UILabel"; text = "Stress (Eccentric loading)"; ObjectID = "T0I-Ua-C8t"; */
+"T0I-Ua-C8t.text" = "Stress (Eccentric loading)";
+
+/* Class = "UILabel"; text = "Moment of Inertia (Transverse Stiffeners)"; ObjectID = "TnY-5S-OUT"; */
+"TnY-5S-OUT.text" = "Moment of Inertia (Transverse Stiffeners)";
+
+/* Class = "UIButton"; normalTitle = "Formula"; ObjectID = "WYr-3r-V3v"; */
+"WYr-3r-V3v.normalTitle" = "Formula";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "WiW-Xr-mHS"; */
+"WiW-Xr-mHS.normalTitle" = "Clear";
+
+/* Class = "UITextField"; placeholder = "Enter Value here"; ObjectID = "Wnp-7Z-s4O"; */
+"Wnp-7Z-s4O.placeholder" = "Enter Value here";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "Wu4-db-y3d"; */
+"Wu4-db-y3d.normalTitle" = "Calculate";
+
+/* Class = "UITextField"; placeholder = "Young's Modulus (Psi)"; ObjectID = "YzK-ri-d8b"; */
+"YzK-ri-d8b.placeholder" = "Young's Modulus (Psi)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "b1s-ZX-AWj"; */
+"b1s-ZX-AWj.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Distance of the load from the centroidal Axis (inch)"; ObjectID = "cGG-vv-bVA"; */
+"cGG-vv-bVA.placeholder" = "Distance of the load from the centroidal Axis (inch)";
+
+/* Class = "UILabel"; text = "P = Applied load (force)\ne = Eccentricity (distance from the centroidal axis)\nL = Length of the beam\nE = Modulus of elasticity of the material\nI = Moment of inertia of the cross-section"; ObjectID = "fQf-41-L0p"; */
+"fQf-41-L0p.text" = "P = Applied load (force)\ne = Eccentricity (distance from the centroidal axis)\nL = Length of the beam\nE = Modulus of elasticity of the material\nI = Moment of inertia of the cross-section";
+
+/* Class = "UILabel"; text = "Web Thickness(inch)"; ObjectID = "hFD-my-xA4"; */
+"hFD-my-xA4.text" = "Web Thickness(inch)";
+
+/* Class = "UILabel"; text = "Clear Distance between Flanges (inch)"; ObjectID = "iGh-od-xzj"; */
+"iGh-od-xzj.text" = "Clear Distance between Flanges (inch)";
+
+/* Class = "UITextField"; placeholder = "Length of Beam (meters)"; ObjectID = "ksy-Uu-os0"; */
+"ksy-Uu-os0.placeholder" = "Length of Beam (meters)";
+
+/* Class = "UIButton"; normalTitle = "Share App"; ObjectID = "l8N-Ty-hbA"; */
+"l8N-Ty-hbA.normalTitle" = "Share App";
+
+/* Class = "UILabel"; text = "Stress (Eccentric loading)"; ObjectID = "lRT-Hu-gRN"; */
+"lRT-Hu-gRN.text" = "Stress (Eccentric loading)";
+
+/* Class = "UITextField"; placeholder = "Axial Load (lb)"; ObjectID = "lwp-Ur-spI"; */
+"lwp-Ur-spI.placeholder" = "Axial Load (lb)";
+
+/* Class = "UITextField"; placeholder = "Young’s Modulus (Pascals)"; ObjectID = "mLt-fd-obv"; */
+"mLt-fd-obv.placeholder" = "Young’s Modulus (Pascals)";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "mZK-Tz-0Yd"; */
+"mZK-Tz-0Yd.normalTitle" = "Clear";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nSt-gf-pJQ"; */
+"nSt-gf-pJQ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "nz3-F9-KLQ"; */
+"nz3-F9-KLQ.normalTitle" = "Calculate";
+
+/* Class = "UITextField"; placeholder = "Eccentricity (meters)"; ObjectID = "pf4-GC-07d"; */
+"pf4-GC-07d.placeholder" = "Eccentricity (meters)";
+
+/* Class = "UITextField"; placeholder = "Moment of Inertia about neutral axis at that  section (inch)"; ObjectID = "qLo-fB-owF"; */
+"qLo-fB-owF.placeholder" = "Moment of Inertia about neutral axis at that  section (inch)";
+
+/* Class = "UILabel"; text = "TigerLoadMoment"; ObjectID = "rrE-0O-I3B"; */
+"rrE-0O-I3B.text" = "TigerLoadMoment";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "s9p-c7-sMS"; */
+"s9p-c7-sMS.normalTitle" = "Calculate";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "siG-6J-TEf"; */
+"siG-6J-TEf.normalTitle" = "Clear";
+
+/* Class = "UILabel"; text = "Actual Stiffener Spacing (inch)"; ObjectID = "uaB-85-dZG"; */
+"uaB-85-dZG.text" = "Actual Stiffener Spacing (inch)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vEv-l7-Q4k"; */
+"vEv-l7-Q4k.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "yAg-yx-U7A"; */
+"yAg-yx-U7A.normalTitle" = "Calculate";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yaa-E8-IOj"; */
+"yaa-E8-IOj.text" = "Label";
+
+/* Class = "UILabel"; text = "Deflection (Eccentric loading)"; ObjectID = "ze0-TU-deJ"; */
+"ze0-TU-deJ.text" = "Deflection (Eccentric loading)";
+
+/* Class = "UILabel"; text = "Stress (Eccentric loading)"; ObjectID = "zwE-dG-cBk"; */
+"zwE-dG-cBk.text" = "Stress (Eccentric loading)";
